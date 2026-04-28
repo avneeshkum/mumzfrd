@@ -15,8 +15,7 @@ Mumzfrd is a LangGraph-powered agentic backend that routes user queries into two
 
 ### 1. Clone repo
 
-git clone https://github.com/YOUR_USERNAME/mumzfrd.git  
-cd mumzfrd
+git clone https://github.com/avneeshkum/mumzfrd.git
 
 ---
 
