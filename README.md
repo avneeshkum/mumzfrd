@@ -10,6 +10,12 @@
 Mumzfrd is a LangGraph-powered agentic backend that routes user queries into two specialized subgraph pipelines: a **Shopping Graph** (gift finder, product comparison, recommendations filtered by budget and child age) and a **Planner Graph** (pregnancy week-by-week timeline, trimester checklists, hospital bag prep). Every response is delivered in both English and Arabic. Confidence scores, uncertainty handling, and an evaluator loop ensure the system says "I don't know" when it should — not when it shouldn't. The FastAPI layer exposes clean JSON endpoints so a React frontend can plug in with zero friction.
 
 ---
+## 🎥 Demo Video
+
+Watch the system working end-to-end:
+
+https://drive.google.com/file/d/1yrtugEe2LicENHG-DqmvscDw7BWiSteo/view?usp=sharing
+---
 
 ## ⚡ Setup & Run (under 5 minutes)
 
